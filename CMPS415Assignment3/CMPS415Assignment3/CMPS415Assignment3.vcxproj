@@ -65,9 +65,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HandSegments.cpp" />
+    <ClCompile Include="HandBallFloor.cpp" />
     <ClCompile Include="LoadShaders.cpp" />
-    <ClCompile Include="ReadScene.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="animdata.bin" />
